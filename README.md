@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nelson 😁
+## Bem-vindo(a) ao perfil do Nelson
 
  <div>
    <a href="https://github.com/santosnelson92">
